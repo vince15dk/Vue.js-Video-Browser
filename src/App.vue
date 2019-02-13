@@ -9,7 +9,7 @@
 <script>
 import axios from 'axios';
 import SearchBar from './components/SearchBar'
-import {apiKey} from '../config/config.js'
+import {apiKey} from '../config/config'
 import VideoList from './components/VideoList'
 
 const API_KEY = apiKey
